@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "lib": ["es5", "es6", "dom"],
+    "resolveJsonModule": true,
+    "allowJs": true,
+    "jsx": "react",
+    "sourceMap": true,
+    "downlevelIteration": true
+  },
+  "include": ["src", "node_modules/@dottless/**/*"]
+}

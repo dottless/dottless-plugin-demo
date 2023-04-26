@@ -1,0 +1,6 @@
+{
+  "id": "my-plugin",
+  "name": "My plugin",
+  "version": "1.0.0",
+  "description": "My first plugin"
+}
